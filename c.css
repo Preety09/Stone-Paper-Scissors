@@ -83,20 +83,32 @@ body{
 
 
    }
-  #win11
+ #win11
   { 
-    margin-left: 500px;
+
+    
   	height: 300px;
-  	width:500px;
+  	width:25%;
+    margin-left: 38%;
+    
+
+
+  }
+    #yy{
+
   	background-image: linear-gradient(rgb(255,255,51),rgb(255,200,100),rgb(200,150,150));
+    text-align: center;
   	
   	
   	color: white;
-  	font-size: 20px;
-  	
+  	font-size: 15px;
   }
+  	
+  
   #win1{ 
     color: white;
    }
+   
+  
    
  
