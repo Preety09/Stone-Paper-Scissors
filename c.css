@@ -1,0 +1,102 @@
+body{
+	background-image: url("prpp.png");
+}
+	
+	/*margin-left: 200;*/
+
+
+/*transform: translate(+100%,+50%);*/
+#hh{ 
+    text-align: center;
+
+
+ }
+	
+
+	
+	
+
+ 
+ 
+
+
+  #button-el{ 
+  	
+  	background-image: linear-gradient(rgb(255,255,51),rgb(255,200,100),rgb(200,150,150));
+  	color: white;
+  	height: 50px;
+  	width: 150px;
+  	font-weight: bold;
+  	padding-top: 5px;
+  	padding-bottom: 5px;
+  	border: none;
+  	border-radius: 10px;
+
+
+   }
+   #button-el:hover
+   { 
+   	background: rgb(120,97,34);
+
+    }
+
+  #button-el1{ 
+  	
+  	background-image: linear-gradient(rgb(255,255,51),rgb(255,200,100),rgb(200,150,150));;
+  	color: white;
+  	height: 50px;
+  	width: 150px;
+  	font-weight: bold;
+  	padding-top: 5px;
+  	padding-bottom: 5px;
+  	border: none;
+  	border-radius: 10px;
+
+
+   }
+   #button-el1:hover
+   { 
+   	background: rgb(120,97,34);
+
+    }
+   #pop{ 
+   	color: rgb(29,44,89);
+    }
+    #pop1
+    { 
+    	color: rgb(29,44,89);
+     }
+     
+      #button-el12{
+      background-image: linear-gradient(rgb(255,255,51),rgb(255,200,100),rgb(200,150,150));
+  	color: white;
+  	width: 150px;
+  	font-weight: bold;
+  	padding-top: 5px;
+  	padding-bottom: 5px;
+  	border: none;
+  	border-radius: 10px;
+  }
+  #button-el12:hover
+  { 
+  		background:rgb(120,97,34);
+
+
+   }
+  #win11
+  { 
+    margin-left: 500px;
+  	height: 300px;
+  	width:500px;
+  	background-image: linear-gradient(rgb(255,255,51),rgb(255,200,100),rgb(200,150,150));
+  	
+  	
+  	color: white;
+  	font-size: 20px;
+  	
+  }
+  #win1{ 
+    color: white;
+   }
+   
+ 
